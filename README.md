@@ -45,29 +45,24 @@ El proyecto Call&Eat es una plataforma web diseñada para mejorar la experiencia
 
 La implementación inicial se centrará en optimizar la funcionalidad del sitio web para garantizar una experiencia de usuario fluida y segura. Se utilizarán tecnologías modernas de desarrollo web para garantizar un rendimiento óptimo y una navegación intuitiva para los usuarios.
 
-Los clientes de [nombre de tu restaurante] serán el principal grupo de usuarios de la plataforma, beneficiándose de la conveniencia de realizar pedidos en línea y disfrutar de la entrega rápida y confiable proporcionada por los repartidores de la empresa.
+Los clientes de Call&Eat serán el principal grupo de usuarios de la plataforma, beneficiándose de la conveniencia de realizar pedidos en línea y disfrutar de la entrega rápida y confiable proporcionada por los repartidores de la empresa.
 Para mantenerse al día con las demandas del mercado y las preferencias de los clientes, se prevén actualizaciones regulares y mejoras en la plataforma en el futuro. Esto garantizará que Call&Eat continúe ofreciendo un servicio de entrega de alimentos de alta calidad que satisfaga las necesidades de sus usuarios.
 
 
-<li>ESTADO DEL PROYECTO</li>
-🏗️Proyecto en construcción 🏗️
+<li><h4></h4>Temporalización del proyecto y fases de desarrollo</li>h4></li>
 
-<li><h4>DEMOSTRACIÓN DE FUNCIONES Y APLICACIONES</h4></li>
 
-- `Funcionalidad 1`: descripción de la funcionalidad 1- `Funcionalidad 2`: descripción de la funcionalidad 2- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2- `Funcionalidad 3`: descripción de la funcionalidad 3
+<li><h4></h4>Recursos de hardware y software</li>h4></li>
+
+
   
-<li><h4>ACCESO AL PROYECTO</h4></li>
-\## 📁 Acceso al proyecto
+<li><h4>Recursos de hardware y software</h4></li>
 
-**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
+<li><h4>Arquitectura software y de sistemas</h4></li>
 
-\## 🛠️ Abre y ejecuta el proyecto
 
-**Muest
-<li><h4>TECNOLOGÍAS UTILIZADAS</h4></li>
-  Python, Djando, 
-<li><h4>PERSONAS CONTRIBUYENTES</h4></li>
-Prasamsa Castelao López
+<li><h4>Descripción de datos</h4></li>
+
 
 
 <li><h4>PERSONAS DESARROLLADORAS DEL PROYECTO</h4></li>
