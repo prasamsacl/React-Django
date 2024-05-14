@@ -40,7 +40,7 @@
         </ol>
     </nav>
   <ol>  
- <li>Descripción del Proyecto y ámbito de implementación </li>
+ <li>✍️Descripción del Proyecto y ámbito de implementación✍️</li>
 El proyecto Call&Eat es una plataforma web diseñada para mejorar la experiencia de entrega de alimentos a domicilio para los clientes de [nombre de tu restaurante], un establecimiento físico con servicio de entrega propia. La plataforma permite a los clientes realizar pedidos de comida directamente desde el sitio web, ofreciendo comodidad y variedad desde la comodidad de sus hogares.
 
 La implementación inicial se centrará en optimizar la funcionalidad del sitio web para garantizar una experiencia de usuario fluida y segura. Se utilizarán tecnologías modernas de desarrollo web para garantizar un rendimiento óptimo y una navegación intuitiva para los usuarios.
